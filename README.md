@@ -1,2 +1,3 @@
 # My Digital Cookbook
-# my-digital-cookbook
+
+## Welcome to my cooking journey!
